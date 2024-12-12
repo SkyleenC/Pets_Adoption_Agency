@@ -294,8 +294,8 @@ footer p {
 
 /* Style for the images */
 .input-image {
-  width: 30px; /* Set the size of the images (adjust as needed) */
-  height: 30px;
+  width: 250px; /* Set the size of the images (adjust as needed) */
+  height: 250px;
   object-fit: cover; /* Ensures the image covers the space without distortion */
 }
 
