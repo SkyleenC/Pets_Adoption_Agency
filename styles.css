@@ -160,7 +160,7 @@ header nav ul li a:hover {
 }
 
 .adopt-btn {
-  background-color: #f39c12;
+  background-color: #008B8B;
   color: white;
   padding: 10px 20px;
   border-radius: 25px;
@@ -169,7 +169,7 @@ header nav ul li a:hover {
 }
 
 .adopt-btn:hover {
-  background-color: #e67e22;
+  background-color: #00CED1;
 }
 
 /* Hover Effect */
