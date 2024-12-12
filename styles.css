@@ -179,9 +179,9 @@ header nav ul li a:hover {
 
 /* Volunteer Signup Section */
 #volunteer {
-  background-color: #e67e22;
+  background-color: #8B008B;
   padding: 60px 20px;
-  color: white;
+  color: gold;
 }
 
 #volunteer .container {
@@ -208,8 +208,8 @@ header nav ul li a:hover {
 }
 
 #volunteer button {
-  background-color: #f39c12;
-  color: white;
+  background-color: #008B8B;
+  color: black;
   padding: 15px 30px;
   border-radius: 25px;
   font-size: 1.2em;
@@ -219,7 +219,7 @@ header nav ul li a:hover {
 }
 
 #volunteer button:hover {
-  background-color: #e67e22;
+  background-color: #00CED1;
 }
 
 /* Contact Section */
